@@ -2,18 +2,17 @@
 
 ## I'm a Student, Developer, and Gamer!!!
 
-- 🔭 My most recent project: [Astro][astro]!
-- 🌱 I’m currently learning everything and more 🤣
-- 👯 I’m looking to collaborate with other content creators
-- 🥅 2021 Goal: Make my Dream Game
+- 🚀 My most recent project: [Astro][astro]!
+- 📝 I’m currently learning everything and more 🤣
+- 🤝 I’m looking to collaborate with other content creators
+- 🕹️ 2021 Goal: Make my Dream Game
 
 ### Find me:
 
 [<img align="left" alt="@alessfm" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][github]
 [<img align="left" alt="Alessandro Malheiro | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-
----
 <br />
+---
 <details>
   <summary>:zap: GitHub Stats</summary>
 
