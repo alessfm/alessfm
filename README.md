@@ -2,7 +2,7 @@
 
 ## I'm a Student, Developer, and Gamer!!!
 
-- 🪐 My most recent project: [Astrum][astro]!
+- 🪐 My most recent project: [Astrum][astrum]!
 - 📝 I’m currently learning everything and more 🤣
 - 🤝 I’m looking to collaborate with other content creators
 - 🕹️ 2021 Goal: Make my Dream Game
