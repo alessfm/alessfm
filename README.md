@@ -2,7 +2,7 @@
 
 ## I'm a Student, Developer, and Gamer!!!
 
-- 🌌 My most recent project: [Astrum][astrum]!
+- 🌌 My most recent project: [Luno][luno]!
 - 📝 I’m currently learning everything and more 🤣
 - 🤝 I’m looking to collaborate with other content creators
 - 🕹️ 2021 Goal: Make my Dream Game
@@ -34,4 +34,4 @@ I am going through a major routine change and some projects ended up having thei
 
 [github]: https://github.com/11-AleXS
 [linkedin]: https://www.linkedin.com/in/alessandro-malheiro/
-[astrum]: https://github.com/11-AleXS/Astrum
+[luno]: https://github.com/11-AleXS/Luno
