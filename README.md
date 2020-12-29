@@ -19,7 +19,7 @@
 I am going through a major routine change and some projects ended up having their developments interrupted indefinitely, that is, they will not be updated frequently. Among them: 
 - Space_Caos (Interrupted) 
 - PrototypeNexTI (Closed for good)
-- Turtle_News (The GitHub Webpage will still work and may be updated with news, but the source code itself will not change frequently.)
+- Turtle_News (The GitHub Webpage will still work)
 
 ###### Thank you for reading
 
