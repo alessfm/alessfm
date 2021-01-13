@@ -1,4 +1,4 @@
-### Hi Universe, I'm Alessandro - aka [alessfm][github] 👋
+### Hi Universe, I'm Alessandro - aka alessfm👋
 
 ## I'm a Student, Developer, and Gamer!!!
 
