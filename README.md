@@ -1,10 +1,10 @@
-### Hi Universe, I'm Alessandro - aka alessfm👋
+### Hi Universe, I'm Alessandro - aka *alessfm*👋
 
 ## I'm a Student, Developer, and Gamer!!!
 
 - 🕯️ My most recent project: [Lampião][Lamp]!
 - 📝 I’m currently learning ReactJS, ElectronJS and Godot Engine.
-- 🤝 I’m looking to collaborate with other content creators
+- 🤝 I’m looking to collaborate with other content creators.
 - 🕹️ 2021 Goal: Launch my first application/game.
 
 ### Find me:
@@ -16,13 +16,13 @@
 
 ### 🔖 Summary of my repositories
 
-- Lampião(will replace Luno)
-- University-Projects(still active)
-- 11-AleXS(I'm still alive)
+- Lampião (will replace Luno)
+- University-Projects (still active)
+- 11-AleXS (I'm still alive)
 - Turtle_News (The GitHub Webpage still work but project still have some minor bugs)
 - Space_Caos (Interrupted and not finished) 
 - PrototipoNexTI (Closed for good)
-- Tribos(still active, the team is developing ideas)
+- Tribos (still active, the team is developing ideas)
 
 ###### Thank you for reading
 
