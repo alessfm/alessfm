@@ -2,7 +2,7 @@
 
 ## I'm a Student, Developer, and Gamer!!!
 
-- 🕯️ My most recent project: [Lampião][Lamp]!
+- 🕯️ My most recent project: [Lampião][Lampiao]!
 - 📝 I’m currently learning ReactJS, ElectronJS and Godot Engine.
 - 🤝 I’m looking to collaborate with other content creators.
 - 🕹️ 2021 Goal: Launch my first application/game.
@@ -41,4 +41,4 @@
 ---
 
 [linkedin]: https://www.linkedin.com/in/alessandro-malheiro/
-[Lamp]: https://github.com/11-AleXS/Lamp
+[Lamp]: https://github.com/11-AleXS/Lampiao
