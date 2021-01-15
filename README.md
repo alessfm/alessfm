@@ -16,7 +16,7 @@
 
 ### 🔖 Summary of my repositories
 
-- The Candle Curse(still active)
+- The Candle Curse (still active)
 - Lampião (still active)
 - University-Projects (still active, but now I'm on vacation)
 - Tribos (still active, the team is developing ideas)
@@ -24,6 +24,7 @@
 
 ###### ⚠️ The projects below are interrupted indefinitely, do not wait for updates frequently.
 
+- Luno (Too many problems and few ideas, taking slow)
 - Turtle_News (The GitHub Webpage still work but project still have some minor bugs on mobile, nothing serious)
 - Space_Caos (8-bit simple game not finished) 
 - PrototipoNexTI (Closed for good, just a fork + pull request to a friend)
