@@ -1,11 +1,9 @@
 ### Hi Universe, I'm Alessandro - aka *alessfm*👋
 
-## I'm a Student, Developer, and Gamer!!!
-
 - 🕯️ My most recent project: [Lampião][Lampiao]!
 - 📝 I’m currently learning ReactJS, ElectronJS and Godot Engine.
 - 🤝 I’m looking to collaborate with other content creators.
-- 🕹️ 2021 Goal: Launch my first application/game.
+- 🕹️ 2021 Goal: Launch my first [application/game][TCC].
 
 ### Find me:
 
@@ -16,15 +14,14 @@
 
 ### 🔖 Summary of my repositories
 
-- The Candle Curse (still active)
-- Lampião (still active)
+- The Candle Curse (still active, creating player)
+- Lampião (still active, in the need of ideas)
 - University-Projects (still active, but now I'm on vacation)
-- Tribos (still active, the team is developing ideas)
 - 11-AleXS (I'm still alive, so still active)
 
-###### ⚠️ The projects below are interrupted indefinitely, do not wait for updates frequently.
+###### ⚠️ The project below is interrupted indefinitely.
 
-- Turtle_News (The GitHub Webpage still work but project still have some minor bugs on mobile, nothing serious)
+- Turtle_News (The GitHub Webpage still work very well on PCs but website have some minor bugs on mobile, _nothing that serious_, but I stopped working on it for some time)
 
 ###### Thank you for reading
 
@@ -39,3 +36,4 @@
 
 [linkedin]: https://www.linkedin.com/in/alessandro-malheiro/
 [Lampiao]: https://github.com/11-AleXS/Lampiao
+[TCC]: https://github.com/11-AleXS/The-Candle-Curse
