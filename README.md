@@ -35,5 +35,5 @@
 ---
 
 [linkedin]: https://www.linkedin.com/in/alessandro-malheiro/
-[Lampiao]: https://github.com/11-AleXS/Lampiao
-[TCC]: https://github.com/11-AleXS/The-Candle-Curse
+[Lampiao]: https://github.com/alessfm/Lampiao
+[TCC]: https://github.com/alessfm/The-Candle-Curse
