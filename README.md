@@ -7,7 +7,7 @@
 
 ### Find me:
 
-[<img align="left" alt="Alessandro Malheiro | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="Alessandro Figueiredo | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 <br />
 
 ***
@@ -17,7 +17,7 @@
 - The Candle Curse (still active, creating player)
 - Lampião (still active, in the need of ideas)
 - University-Projects (still active, but now I'm on vacation)
-- 11-AleXS (I'm still alive, so still active)
+- alessfm (I'm still alive, so still active)
 
 ###### ⚠️ The project below is interrupted indefinitely.
 
