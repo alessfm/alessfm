@@ -1,7 +1,7 @@
 ### Hi Universe, I'm Alessandro - aka *alessfm*👋
 
-- 🌵 My most recent project: [Jua][Jua]!
-- 📝 I’m currently learning Python OOP and Godot Engine.
+- 🌵🌠 My most recent projects: [Jua][Jua] and [Shanks][Shanks]!
+- 📝 I’m currently learning Python OOP, Godot Engine and Dart.
 - 🤝 I’m looking to collaborate with other content creators.
 - 🕹️ 2021 Goal: Launch my first [application/game][TCC].
 
@@ -14,10 +14,12 @@
 
 ### 🔖 Summary of my repositories
 
-- The Candle Curse (still active, creating player)
-- Lampião (still active, in the need of ideas)
-- University-Projects (still active, but now I'm on vacation)
-- alessfm (I'm still alive, so still active)
+- Shanks (new!)
+- Jua (new!)
+- The Candle Curse (active, creating tiles and collisions)
+- Lampião (active, in the need of ideas)
+- University-Projects (active)
+- alessfm (I'm still alive, so active)
 
 ###### ⚠️ The project below is interrupted indefinitely.
 
@@ -35,5 +37,6 @@
 ---
 
 [linkedin]: https://www.linkedin.com/in/alessandro-malheiro/
+[Shanks]: https://github.com/alessfm/Shanks
 [Jua]: https://github.com/alessfm/Jua
 [TCC]: https://github.com/alessfm/The-Candle-Curse
