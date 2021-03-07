@@ -1,7 +1,7 @@
 ### Hi Universe, I'm Alessandro - aka *alessfm*👋
 
-- 🕯️ My most recent project: [Jua][Jua]!
-- 📝 I’m currently learning ReactJS, ElectronJS and Godot Engine.
+- 🌵 My most recent project: [Jua][Jua]!
+- 📝 I’m currently learning Python OOP and Godot Engine.
 - 🤝 I’m looking to collaborate with other content creators.
 - 🕹️ 2021 Goal: Launch my first [application/game][TCC].
 
