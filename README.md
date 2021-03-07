@@ -1,6 +1,6 @@
 ### Hi Universe, I'm Alessandro - aka *alessfm*👋
 
-- 🕯️ My most recent project: [Lampião][Lampiao]!
+- 🕯️ My most recent project: [Jua][Jua]!
 - 📝 I’m currently learning ReactJS, ElectronJS and Godot Engine.
 - 🤝 I’m looking to collaborate with other content creators.
 - 🕹️ 2021 Goal: Launch my first [application/game][TCC].
@@ -35,5 +35,5 @@
 ---
 
 [linkedin]: https://www.linkedin.com/in/alessandro-malheiro/
-[Lampiao]: https://github.com/alessfm/Lampiao
+[Lampiao]: https://github.com/alessfm/Jua
 [TCC]: https://github.com/alessfm/The-Candle-Curse
