@@ -1,7 +1,7 @@
 ### Hi Universe, I'm Alessandro - aka *alessfm*👋
 
 - 🌵 My most recent project: [Jua][Jua]!
-- 📝 I’m currently learning Intermediate Python, Godot Engine and TS.
+- 📝 I’m currently learning Intermediate Python, Godot Engine, Dart and TS.
 - 🤝 I’m looking to collaborate with other content creators.
 - 🕹️ 2021 Goal: Learn how to make a small [game][TCC].
 
@@ -14,7 +14,7 @@
 
 ### 🔖 Summary of my repositories
 
-- Jua (new!)
+- Jua (new!, trying to format API)
 - The Candle Curse (active, creating tiles and collisions)
 - Lampião (not that active, in the need of ideas)
 - University-Projects (active)
