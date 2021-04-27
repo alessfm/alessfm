@@ -1,9 +1,9 @@
 ### Hi Universe, I'm Alessandro - aka *alessfm*👋
 
 - 🌵 My most recent project: [Jua][Jua]!
-- 📝 I’m currently learning Intermediate Python, Godot Engine, Dart and TS.
-- 🤝 I’m looking to collaborate with other content creators.
-- 🕹️ 2021 Goal: Learn how to make a small [game][TCC].
+- 📝 I’m currently learning Intermediate Python, Godot Engine and TS.
+- 📁 I’m diving into back-end.
+- 🎯 2021 Goal: Finish all my projects.
 
 ### Find me:
 
@@ -12,28 +12,11 @@
 
 ***
 
-### 🔖 Summary of my repositories
-
-- Jua (new!, trying to format API)
-- The Candle Curse (active, creating tiles and collisions)
-- Lampião (not that active, in the need of ideas)
-- University-Projects (active)
-- alessfm (I'm still alive, so active)
-
-###### ⚠️ The project below is interrupted indefinitely.
-
-- Turtle_News (The GitHub Webpage still work very well on PCs but website have some minor bugs on mobile, _nothing that serious_, but I stopped working on it for some time)
-
-###### Thank you for reading
+<a href="https://github.com/digvijay173">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alessfm&theme=tokyonight&layout=compact&" />
+</a>
 
 ***
-
-<details>
-  <summary>:zap: GitHub Stats</summary>
-  <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=alessfm&show_icons=true&hide_border=true&theme=algolia" />
-</details>
-
----
 
 [linkedin]: https://www.linkedin.com/in/alessandro-malheiro/
 [Jua]: https://github.com/alessfm/Jua
