@@ -16,8 +16,6 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alessfm&theme=tokyonight&layout=compact&" />
 </a>
 
-***
-
 [linkedin]: https://www.linkedin.com/in/alessandro-malheiro/
 [Jua]: https://github.com/alessfm/Jua
 [TCC]: https://github.com/alessfm/The-Candle-Curse
