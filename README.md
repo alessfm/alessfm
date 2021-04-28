@@ -1,7 +1,7 @@
 ### Hi Universe, I'm Alessandro - aka *alessfm*👋
 
-- 🌵 My most recent project: [Jua][Jua]!
-- 📝 I’m currently learning Intermediate Python, Godot Engine and TS.
+- 🌵 My most recent project: [jua][jua]!
+- 📝 I’m currently learning Intermediate Python, Godot Engine and Electron.
 - 📁 I’m diving into back-end.
 - 🎯 2021 Goal: Finish all my projects.
 
@@ -17,5 +17,5 @@
 </a>
 
 [linkedin]: https://www.linkedin.com/in/alessandro-malheiro/
-[Jua]: https://github.com/alessfm/Jua
-[TCC]: https://github.com/alessfm/The-Candle-Curse
+[jua]: https://github.com/alessfm/jua
+[tcc]: https://github.com/alessfm/the-candle-curse
