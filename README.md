@@ -1,9 +1,8 @@
 ### Hi Universe, I'm Alessandro - aka *alessfm*👋
 
 - 🌵 My most recent project: [jua][jua]!
-- 📝 I’m currently learning Intermediate Python, Godot Engine and Electron.
-- 📁 I’m diving into back-end.
-- 🎯 2021 Goal: Finish all my projects.
+- 📝 I’m currently learning how to make a game on Godot Engine and build an app with ElectronJS.
+- 🎯 2021 Goal: Finish [jua][jua] and [tcc][tcc].
 
 ### Find me:
 
