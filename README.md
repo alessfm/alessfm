@@ -2,7 +2,7 @@
 
 - 🌵 My most recent project: [jua][jua]!
 - 📝 I’m currently learning how to make a game on Godot Engine and build an app with ElectronJS.
-- 🎯 2021 Goal: Finish [jua][jua] and [tcc][tcc].
+- 🎯 2021 Goal: Finish [jua][jua] and [the-candle-curse][tcc].
 
 ### Find me:
 
