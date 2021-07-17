@@ -1,10 +1,12 @@
-### Hi Universe, I'm Alessandro - aka *alessfm*👋
+**Hi Universe, I'm Alessandro - aka *alessfm*👋**
+---
 
 - 🌵 My most recent project: [jua][jua]!
-- 📝 I’m currently learning how to make a game on Godot Engine and build an app with ElectronJS.
+- 📝 I’m currently learning how to make a game on Godot Engine and build an app with ElectronJS and ReactJS.
 - 🎯 2021 Goal: Finish [jua][jua] and [the-candle-curse][tcc].
 
-### Find me:
+**Find me:**
+---
 
 [<img align="left" alt="Alessandro Figueiredo | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 <br />
