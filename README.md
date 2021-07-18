@@ -19,7 +19,7 @@ hey, i'm Alessandro, a junior dev learning as most as possible from the IT world
 
 <p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=alessfm&show_icons=true&theme=tokyonight" alt="alesssfm" />
 <a href="https://github.com/digvijay173">
-  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alessfm&theme=tokyonight&layout=compact&" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alessfm&theme=tokyonight&layout=compact&" />
 </a>
 
 [jua]: https://github.com/alessfm/jua
