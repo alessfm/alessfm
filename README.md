@@ -1,6 +1,6 @@
 ### hi universe :wave:
 <a href="https://www.linkedin.com/in/alessandro-malheiro/">
-  <img align="left" alt="Abhishek's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+  <img align="left" alt="Alessandro Figueiredo | LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 <img src="https://img.shields.io/badge/code-24%2F7-informational?style=flat&logo=windowsterminal">
 
@@ -15,12 +15,15 @@ hey, i'm Alessandro, a junior dev learning as most as possible from the IT world
 :dart:  2021 Goal: Finish [jua][jua] and [the-candle-curse][tcc].           
 <!-- TODO-IST:END -->
 
-:bulb: **my github stats:**
+:speech_balloon: **languages and tools:**
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alessfm&theme=tokyonight&layout=compact&" alt="alessfm-languages" />
+</p>
 
-<p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=alessfm&show_icons=true&theme=tokyonight" alt="alesssfm" />
-<a href="https://github.com/digvijay173">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alessfm&theme=tokyonight&layout=compact&" />
-</a>
+:bulb: **my github stats:**
+<p align="center"> 
+  <img src="https://github-readme-stats.vercel.app/api?username=alessfm&show_icons=true&theme=tokyonight" alt="alesssfm-stats" />
+</p>
 
 [jua]: https://github.com/alessfm/jua
 [tcc]: https://github.com/alessfm/the-candle-curse
