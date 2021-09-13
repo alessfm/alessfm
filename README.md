@@ -7,17 +7,20 @@
 </a>
 <br><br/>
 
-:file_folder: **about my repos:**
-<!-- TODO-IST:START -->
-:cloud: My most recent project: [jua][jua]!           
-:memo:  I’m currently learning how to build a desktop application with ElectronJS and ReactJS and make a PC game on Godot Engine.          
-:dart:  2021 Goal: Deploy [jua][jua] alpha.           
-<!-- TODO-IST:END -->
+:keyboard: | **what I doing?**
 
-:speech_balloon: **languages and tools:**
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alessfm&theme=tokyonight&layout=compact&" alt="alessfm-languages" />
-</p>
+1. :bookmark: My most recent project is [jua][jua]! It will be an **accessible tech guide**.           
+1. :candle:  I’m currently learning how to make a **game on Godot Engine**. See more at [the-candle-curse][tcc].      
+1. :snake:  I'm planning to create a **Python Project**.           
+
+:cd: | **what I did?**
+
+1. :turtle: I made a **gaming news template website** and launch it on GitHub WebPages. [Check it out!][tnews]          
+1. :shopping_cart:  I did a simple **e-commerce website** on PHP with a colleague on college. [Here it goes.][car]      
+1. :books:  I have a repository only for **tests/homeworks from my college**. [This is it.][uni]
 
 [jua]: https://github.com/alessfm/jua
 [tcc]: https://github.com/alessfm/the-candle-curse
+[tnews]: https://alessfm.github.io/turtle-news/
+[car]: https://github.com/alessfm/carrinho-de-compras
+[uni]: https://github.com/alessfm/university-projects
