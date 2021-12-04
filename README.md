@@ -27,10 +27,10 @@
 ---
 
 <a href="https://github.com/alessfm">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alessfm&custom_title=🌎- Languages&langs_count=10&layout=compact&hide_border=true&bg_color=FFFFFF&icon_color=0D1117&title_color=0D1117&text_color=0D1117"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alessfm&custom_title=🌎- Languages&langs_count=10&layout=compact&hide_border=true&bg_color=0D1117&icon_color=FFFFFF&title_color=FFFFFF&text_color=FFFFFF"/>
 </a>
 <a href="https://github.com/alessfm">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=alessfm&show_icons=true&include_all_commits=true&custom_title=⚡- Stats&hide_border=true&bg_color=FFFFFF&icon_color=0D1117&title_color=0D1117&text_color=0D1117"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=alessfm&show_icons=true&include_all_commits=true&custom_title=⚡- Stats&hide_border=true&bg_color=0D1117&icon_color=FFFFFF&title_color=FFFFFF&text_color=FFFFFF"/>
 </a>
 
 ##### Thanks to [Anurag Hazra](https://github.com/anuraghazra) for the stats :)
