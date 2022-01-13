@@ -13,16 +13,14 @@
 
 :pushpin: - **what am I doing?**
 
-1. :anger: My most recent project is [kolero-bot][kolero]! It's a **help bot** _with anger issues_...
-1. :compass: There is also [jua][jua]! I'm **still deciding** what it will be.
-1. :jack_o_lantern: I’m currently learning how to make a more **complex game**. See more at [the-candle-curse][tcc].
-1. :space_invader: Last but not least, I'm **remastering my first game**, [space-caos][pixel], with more features and fixes.
+1. :leaves: _incoming..._
+2. :jack_o_lantern: I’m currently learning how to make a more **complex game**. See more at [the-candle-curse][tcc].
 
 :open_file_folder: - **what I did?**
 
-1. :turtle: I made a **gaming news template website** and launch it on GitHub WebPages. Check [turtle-news][tnews]!       
-1. :shopping_cart:  I did a simple **e-commerce website** on PHP with a colleague on college. Here it goes the [repo][carphp]. 
-1. :books:  I have a repository only for **tests/homeworks** from my college. [This is it.][uni]
+1. :turtle: I made a **gaming news template website** and launch it on GitHub WebPages. Check [turtle-news][tnews]!
+2. :space_invader: I made a pixel-space-ship-shooter game, see at [space-caos][pixel].
+3. :books:  I have a repository only for **tests/homeworks** from my college. [This is it.][uni]
 
 ---
 
@@ -35,10 +33,8 @@
 
 ##### Thanks to [Anurag Hazra](https://github.com/anuraghazra) for the stats :)
 
-[kolero]: https://github.com/alessfm/kolero-bot
-[jua]: https://github.com/alessfm/jua
+[gardeno]: https://github.com/alessfm/gardeno
 [tcc]: https://github.com/alessfm/the-candle-curse
+[tnews]: https://alessfm.github.io/turtle-news
 [pixel]: https://github.com/alessfm/space-caos
-[tnews]: https://alessfm.github.io/turtle-news/
-[carphp]: https://github.com/alessfm/carrinho-de-compras
 [uni]: https://github.com/alessfm/university-projects
