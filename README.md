@@ -13,7 +13,7 @@
 
 :pushpin: - **what am I doing?**
 
-1. :leaves: _incoming..._
+1. :leaves: Building a **new and complex project from the ground up**. This time, using GitHub Features, making docs, front-end and back-end.. See it at [gardeno's][gardenos].
 2. :jack_o_lantern: I’m currently learning how to make a more **complex game**. See more at [the-candle-curse][tcc].
 
 :open_file_folder: - **what I did?**
@@ -33,7 +33,7 @@
 
 ##### Thanks to [Anurag Hazra](https://github.com/anuraghazra) for the stats :)
 
-[gardeno]: https://github.com/alessfm/gardeno
+[gardenos]: https://github.com/alessfm/gardenos
 [tcc]: https://github.com/alessfm/the-candle-curse
 [tnews]: https://alessfm.github.io/turtle-news
 [pixel]: https://github.com/alessfm/space-caos
