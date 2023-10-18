@@ -1,37 +1,16 @@
-### ```C:\Users\alessfm>``` _hey_ 
-
-<a href="https://www.linkedin.com/in/alessandro-malheiro/">
-  <img alt="Alessandro Figueiredo | LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg"/>
-</a>
-<a href="https://stackoverflow.com/users/16797281/alessfm">
-  <img alt="Alessfm | Stack Overflow" width="130px" src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white"/>
-</a>
-
+```C:\Users\alessfm>```
 ---
 
-#### My stuff
+:pushpin: - **Atualmente, estou...**
 
-:pushpin: - **what am I doing?**
+1. :leaves: Tentando construir uma aplicação web, usando ReactJS e FastAPI: [Gardeno's][gardenos]
+2. :jack_o_lantern: Tentando construir um jogo, usando a Godot Engine: [The Candle Curse][tcc]
 
-1. :leaves: Building a **new project from the ground up**. This time, using GitHub Features and making docs. See it at [gardeno's][gardenos].
-2. :jack_o_lantern: I’m currently learning how to make a more **complex game**. See more at [the-candle-curse][tcc].
+:open_file_folder: - **Antes, tinha feito...**
 
-:open_file_folder: - **what I did?**
-
-1. :turtle: I made a **gaming news template website** and launch it on GitHub WebPages. Check [turtle-news][tnews]!
-2. :space_invader: I made a pixel-space-ship-shooter game, see at [space-caos][pixel].
-3. :books:  I have a repository only for **tests/homeworks** from my college. [This is it.][uni]
-
----
-
-<a href="https://github.com/alessfm">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alessfm&custom_title=🌎- Languages&langs_count=10&layout=compact&hide_border=true&bg_color=0D1117&icon_color=FFFFFF&title_color=FFFFFF&text_color=FFFFFF"/>
-</a>
-<a href="https://github.com/alessfm">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=alessfm&show_icons=true&include_all_commits=true&custom_title=⚡- Stats&hide_border=true&bg_color=0D1117&icon_color=FFFFFF&title_color=FFFFFF&text_color=FFFFFF"/>
-</a>
-
-##### Thanks to [Anurag Hazra](https://github.com/anuraghazra) for the stats :)
+1. :turtle: Um template de um site de notícias, disponível no GitHub Pages: [Turtle News][tnews]
+2. :space_invader: Um joguinho bem simples usando PyGame: [Space Caos][pixel]
+3. :books:  Algumas coisas na faculdate: [Projetos][uni]
 
 [gardenos]: https://github.com/alessfm/gardenos
 [tcc]: https://github.com/alessfm/the-candle-curse
