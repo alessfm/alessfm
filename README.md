@@ -3,17 +3,15 @@
 
 :pushpin: - **Atualmente, estou...**
 
-1. :leaves: Tentando construir uma aplicação web, usando ReactJS e FastAPI: [Gardeno's][gardenos]
-2. :jack_o_lantern: Tentando construir um jogo, usando a Godot Engine: [The Candle Curse][tcc]
+1. :hammer_and_wrench: **Desenvolvendo para a pós-graduação**, um projeto web fullstack, usando Angular e Spring Boot: [Mentorr][mentorr]
+1. :stop_sign: **Pausado na construção** de outra aplicação web, usando ReactJS e FastAPI: [Gardeno's][gardenos] 
 
-:open_file_folder: - **Antes, tinha feito...**
+:open_file_folder: - **Antigamente, tinha...**
 
-1. :turtle: Um template de um site de notícias, disponível no GitHub Pages: [Turtle News][tnews]
-2. :space_invader: Um joguinho bem simples usando PyGame: [Space Caos][pixel]
-3. :books:  Algumas coisas na faculdate: [Projetos][uni]
+2. :newspaper: **Feito um template** de um site de notícias, disponível no GitHub Pages: [Turtle News][tnews]
+2. :video_game: **Tentado construir um jogo**, usando a Godot Engine: [The Candle Curse][tcc]
 
+[mentorr]: https://github.com/alessfm/mentorr
 [gardenos]: https://github.com/alessfm/gardenos
-[tcc]: https://github.com/alessfm/the-candle-curse
 [tnews]: https://alessfm.github.io/turtle-news
-[pixel]: https://github.com/alessfm/space-caos
-[uni]: https://github.com/alessfm/university-projects
+[tcc]: https://github.com/alessfm/the-candle-curse
